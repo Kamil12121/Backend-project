@@ -89,7 +89,6 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.2" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:2.3.3.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.37" level="project" />
     <orderEntry type="library" name="Maven: org.glassfish:jakarta.el:3.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.37" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:5.2.8.RELEASE" level="project" />
@@ -126,5 +125,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.7.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-test:5.3.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:5.3.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.37" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-annotations-api:9.0.37" level="project" />
   </component>
 </module>

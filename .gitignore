@@ -1,2 +1,12 @@
 # Project exclude paths
-/target/
+.mvn
+.idea
+css
+js
+target
+test
+mvnw
+mvnw.cmd
+pom.xml
+Spring_Security_SFA.iml
+HELP.md
